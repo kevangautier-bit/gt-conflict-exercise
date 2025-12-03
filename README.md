@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 LOCAL
 
 # Mon exercice Git
